@@ -8,7 +8,7 @@ The curve fitting problem motivates a number of important key concepts covered i
 # Your Implementation
 You will generate noisy observations (x, t) (training data points), assuming Gaussian noise. Estimate the regression coefficients w by minimizing the sum-of-squares error. Re-formulate the problem in a Bayesian approach by introducing a prior distribution p(w|α) over the coefficients. Solve the Bayesian linear regression problem.  Your code must be reasonably commented and written in an understandable manner--we will read your code.  You cannot use matlab functions such as polyfit, you must use the equation you have derived.
 
-The shaded error bars function from www.mathworks.com/matlabcentral/fileexchange/26311-shadederrorbar (Links to an external site.)Links to an external site. has been provided for you to visualize the predictive probabilities as well as export_fig from https://github.com/altmany/export_fig (Links to an external site.)Links to an external site. to generate decent looking figures.  
+The shaded error bars function from www.mathworks.com/matlabcentral/fileexchange/26311-shadederrorbar  has been provided for you to visualize the predictive probabilities as well as export_fig from https://github.com/altmany/export_fig to generate decent looking figures.  
 
 
 # Grading Criteria
