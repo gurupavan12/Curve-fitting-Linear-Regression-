@@ -1,4 +1,4 @@
-# Curve-fiiting-Linear-Regression-
+# Curve-fitting-Linear-Regression-
 Machine Learning course project- 1
 # Project 1: Curve Fitting / Linear Regression 
 Due on Friday, January 26, 2018 (Midnight)
